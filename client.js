@@ -1,4 +1,4 @@
-const URL = "https://tpex.atmois.com/plot-data";
+const URL = "https://tpexgrapher.atmois.com/plot-data";
 let itemID = "stone";
 
 function plotGraph(data) {
